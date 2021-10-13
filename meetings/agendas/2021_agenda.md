@@ -6,3 +6,6 @@
 ## October 26, 2021
 - presentation by Nick/Hugo/Karin on proposed project ideas
 - discussion of project ideas
+
+## November 9, 2021
+- discuss P-model details
