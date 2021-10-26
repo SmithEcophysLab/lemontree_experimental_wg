@@ -8,4 +8,11 @@
 - discussion of project ideas
 
 ## November 9, 2021
+- discuss gas exchange data from soybean experiment
+
+## November 23, 2021
 - discuss P-model details
+
+## other ideas
+- facilities
+- PI backgrounds/expertise
