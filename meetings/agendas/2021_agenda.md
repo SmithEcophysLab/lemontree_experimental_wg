@@ -11,8 +11,11 @@
 - discuss gas exchange data from soybean experiment
 
 ## November 23, 2021
-- discuss P-model details
+- Astrid introduction
+
+## December 7, 2021
 
 ## other ideas
 - facilities
 - PI backgrounds/expertise
+- discuss P-model details
