@@ -14,8 +14,11 @@
 - Astrid introduction
 
 ## December 7, 2021
+- NO MEETING
+	- reconvene after the New Year
 
 ## other ideas
+- Jan introduction (first meeting of 2022)
 - facilities
 - PI backgrounds/expertise
 - discuss P-model details
