@@ -4,10 +4,15 @@
 - Jan introduction and ideas
 
 ## February 15, 2022
-- TBD
+- P-model introduction (Nick; 15 min)
+- P-model discussion (15 min)
+- TTU eCO2 experiment (Evan; 15 min)
+- Experiment discussion (15 min)
 
 ## March 1, 2022
-- TBD
+- Discussion of protocols
+- Discussion of facilities
+	- Hugo: German Ag FACE experiment
 
 ## March 15, 2022
 - TBD
@@ -22,7 +27,4 @@
 - TBD
 
 ## other ideas
-- Evan's eCO2 expreiment
-- facilities
 - PI backgrounds/expertise
-- discuss P-model details
