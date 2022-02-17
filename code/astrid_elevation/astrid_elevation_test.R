@@ -19,6 +19,9 @@ low_elev_sim = calc_optimal_vcmax(z = 1000, cao = co2_nasa[c(41:161), 2])
 low_elev_sim$elevation <- 'z = 1000 m'
 elev_sim <- rbind(high_elev_sim, low_elev_sim)
 
+## write output
+write.csv(elev_sim, 'astrid_sim_output.csv')
+
 ## make some figs
 astrid_sim_fig <- ggplot(data = elev_sim, aes(x = cao, y = nall, color = elevation)) +
   theme(legend.position = "right", 
