@@ -13,12 +13,13 @@
 - Experiment discussion (15 min)
 
 ## March 15, 2022
+- Discussion of Dorian's experiment (30 min)
+- Discussion of Paul and Hugo's Oz experiment (30 minutes)
+
+## March 29, 2022
 - Discussion of protocols
 - Discussion of facilities
 	- Hugo: German Ag FACE experiment
-
-## March 29, 2022
-- TBD
 
 ## April 12, 2022
 - TBD
