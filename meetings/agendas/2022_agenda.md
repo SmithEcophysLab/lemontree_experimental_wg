@@ -17,15 +17,16 @@
 - Discussion of Paul and Hugo's Oz experiment (30 minutes)
 
 ## March 29, 2022
-- Discussion of protocols
-- Discussion of facilities
-	- Hugo: German Ag FACE experiment
+- No meeting
 
 ## April 12, 2022
-- TBD
+- update on experimental designs from UU (and TTU?)
 
 ## April 26, 2022
 - TBD
 
 ## other ideas
 - PI backgrounds/expertise
+- Discussion of protocols
+- Discussion of facilities
+	- Hugo: German Ag FACE experiment
