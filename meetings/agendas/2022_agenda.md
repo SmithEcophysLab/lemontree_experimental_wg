@@ -31,3 +31,4 @@
 - Discussion of facilities
 	- Hugo: German Ag FACE experiment
 - Zhang Han (Tsinghua), stem respiration
+- phenology experiments with members from the phenology working group
