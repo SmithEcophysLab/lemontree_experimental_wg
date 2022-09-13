@@ -25,6 +25,28 @@
 ## April 26, 2022
 - TBD
 
+## September 13, 2022
+- updates from the group
+- planning for upcoming meetings
+
+## September 27, 2022
+- TBD
+
+## October 11, 2022
+- TBD
+
+## October 25, 2022
+- TBD
+
+## November 8, 2022
+- TBD
+
+## November 22, 20222
+- No meeting? Thanksgiving
+
+## December 6, 2022
+- TBD
+
 ## other ideas
 - PI backgrounds/expertise
 - Discussion of protocols
