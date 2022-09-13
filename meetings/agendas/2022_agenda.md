@@ -30,22 +30,24 @@
 - planning for upcoming meetings
 
 ## September 27, 2022
-- TBD
+- A/Ci curves (including C4)
 
 ## October 11, 2022
-- TBD
+- Zhang Han
 
 ## October 25, 2022
-- TBD
+- C4 A/Ci curve fitting - led by Paul
 
 ## November 8, 2022
-- TBD
+- Zinny Brad experiment design
 
 ## November 22, 20222
 - No meeting? Thanksgiving
 
 ## December 6, 2022
-- TBD
+- Evan presenting CO2 work
+
+## start again on Jan 17
 
 ## other ideas
 - PI backgrounds/expertise
