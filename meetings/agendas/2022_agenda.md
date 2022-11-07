@@ -39,12 +39,13 @@
 - C4 A/Ci curve fitting - led by Paul
 
 ## November 8, 2022
-- Zinny Brad experiment design
+- TBD
 
 ## November 22, 20222
-- No meeting? Thanksgiving
+- No meeting. Thanksgiving
 
 ## December 6, 2022
+- Zinny Brad experiment design
 - Evan presenting CO2 work
 
 ## start again on Jan 17
