@@ -17,7 +17,8 @@
 
 ## May 9, 2023
 
-## other ideas (from 2022)
+## other ideas (some from 2022)
+- Jan/Astrid time in Perth
 - PI backgrounds/expertise
 - Discussion of protocols
 - Discussion of facilities
