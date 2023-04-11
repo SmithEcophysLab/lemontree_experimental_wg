@@ -19,6 +19,7 @@
 
 ## Apr 11, 2023
 - Hugo tropical field work discussion
+- Alissar project idea
 
 ## Apr 25, 2023
 - no meeting due to EGU
