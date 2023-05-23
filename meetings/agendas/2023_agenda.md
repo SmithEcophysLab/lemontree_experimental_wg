@@ -28,7 +28,30 @@
 - student ideas/pitches from TTU and UU
 
 ## May 23, 2023
-- student ideas/pitches from TTU and UU
+- Planning day
+
+## June 6, 2023
+- Nutrient impacts in the field
+	- Paul, Hugo, Evan, Jan, Monika
+
+## June 20, 2023
+- No meeting
+
+## July 4, 2023
+- No meeting
+
+## July 18, 2023
+- Fitting C4 ACi curves
+- https://github.com/bmedlyn/fitAciC4
+
+## August 1, 2023
+- Alissar research update
+
+## August 15, 2023
+- No meeting (LEMONTREE meeting in Reading)
+
+## Auguest 29, 2023
+- Fall/Spring planning meeting
 
 ## other ideas (some from 2022)
 - PI backgrounds/expertise
