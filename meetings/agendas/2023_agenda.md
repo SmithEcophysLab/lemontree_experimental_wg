@@ -41,8 +41,7 @@
 - No meeting
 
 ## July 18, 2023
-- Fitting C4 ACi curves
-- https://github.com/bmedlyn/fitAciC4
+- No meeting
 
 ## August 1, 2023
 - Alissar research update
@@ -50,8 +49,10 @@
 ## August 15, 2023
 - No meeting (LEMONTREE meeting in Reading)
 
-## Auguest 29, 2023
+## August 29, 2023
 - Fall/Spring planning meeting
+- Fitting C4 ACi curves
+	- https://github.com/bmedlyn/fitAciC4
 
 ## other ideas (some from 2022)
 - PI backgrounds/expertise
