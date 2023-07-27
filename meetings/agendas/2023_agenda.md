@@ -44,13 +44,15 @@
 - No meeting
 
 ## August 1, 2023
-- Alissar research update
+- No meeting
 
 ## August 15, 2023
 - No meeting (LEMONTREE meeting in Reading)
 
 ## August 29, 2023
-- Fall/Spring planning meeting
+- Alissar research update
+
+## September 12, 2023
 - Fitting C4 ACi curves
 	- https://github.com/bmedlyn/fitAciC4
 
