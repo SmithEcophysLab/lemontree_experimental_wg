@@ -56,6 +56,9 @@
 - Fitting C4 ACi curves
 	- https://github.com/bmedlyn/fitAciC4
 
+## September 26, 2023
+- LEMONTREE midterm meeting plan
+
 ## other ideas (some from 2022)
 - PI backgrounds/expertise
 - Discussion of protocols
