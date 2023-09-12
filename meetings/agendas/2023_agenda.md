@@ -59,6 +59,12 @@
 ## September 26, 2023
 - LEMONTREE midterm meeting plan
 
+## October 10, 2023
+- TBD
+
+## October 24, 2023
+- Eve experiment update
+
 ## other ideas (some from 2022)
 - PI backgrounds/expertise
 - Discussion of protocols
